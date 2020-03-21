@@ -2,7 +2,7 @@
 A chatbot project designed during the #WirVsVirusHackathon helping authorities spreading their information
 
 ## server start
-- NODE_ENV=production npm run build
+- NODE_ENV=production npm start
 
 ## gcloud cli access
 - `gcloud init #only needed one time`
