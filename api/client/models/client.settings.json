@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "clients",
+  "info": {
+    "name": "Client"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user"
+    },
+    "answer1": {
+      "type": "string"
+    },
+    "answer2": {
+      "type": "string"
+    },
+    "answer3": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    }
+  }
+}
