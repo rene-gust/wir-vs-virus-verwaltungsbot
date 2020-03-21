@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "answers",
+  "info": {
+    "name": "answers"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "answer_text": {
+      "type": "richtext"
+    },
+    "channel": {
+      "model": "channel",
+      "via": "answers"
+    },
+    "question_id": {
+      "type": "string"
+    }
+  }
+}
