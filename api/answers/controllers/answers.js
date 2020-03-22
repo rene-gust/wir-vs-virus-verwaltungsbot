@@ -8,6 +8,28 @@ const { parseMultipartData, sanitizeEntity } = require("strapi-utils");
  */
 
 module.exports = {
+
+  async find(ctx) {
+    const userChannel = ctx.state.user.channel;
+
+    const query = {
+      ...ctx.query,
+      channel: userChannel,
+    }
+
+
+    let entities;
+    if (ctx.query._q) {
+      entities = await strapi.services.answers.search(query);
+    } else {
+      entities = await strapi.services.answers.find(query);
+    }
+
+    return entities.map(entity =>
+      sanitizeEntity(entity, { model: strapi.models.answers })
+    );
+  },
+
   /**
    * Create a record.
    *
@@ -15,6 +37,9 @@ module.exports = {
    */
 
   async create(ctx) {
+    /** New answers need to be added by administrators for now */
+    return ctx.unauthorized(`You can't add answers, you can only edit.`);
+    /**
     let entity;
     if (ctx.is("multipart")) {
       const { data, files } = parseMultipartData(ctx);
@@ -25,7 +50,8 @@ module.exports = {
       entity = await strapi.services.answer.create(ctx.request.body);
     }
     return sanitizeEntity(entity, { model: strapi.models.article });
-  }
+     */
+  },
 
   /**
    * Update a record.
@@ -34,16 +60,23 @@ module.exports = {
    */
 
   async update(ctx) {
+    const userChannel = ctx.state.user.channel;
+
     let entity;
 
     const [answer] = await strapi.services.answer.find({
       id: ctx.params.id,
-      'author.id': ctx.state.user.id,
     });
 
-    if (!article) {
+    if (!answer) {
       return ctx.unauthorized(`You can't update this entry`);
     }
+
+    if (answer.channel.id != userChannel) {
+      return ctx.unauthorized(`You can't update this entry`);
+    }
+
+
 
     if (ctx.is('multipart')) {
       const { data, files } = parseMultipartData(ctx);
