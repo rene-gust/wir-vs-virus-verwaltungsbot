@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "method": "POST",
+            "path": "/dialogflow/intent",
+            "handler": "intent.index"
+        }
+    ]
+}
