@@ -1,0 +1,600 @@
+[
+  {
+    "id": "a26a2633-4f0d-4f8e-8f13-615fdfea4d96",
+    "data": [
+      {
+        "text": "Kann ich auswärts ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9aa055ab-7fe3-45c4-a36a-ae76a7e9556b",
+    "data": [
+      {
+        "text": "Kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "im Restaurant essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41aa0da8-6e47-49ba-94e2-9e89d88fc615",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizza essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1390c53c-8e92-42f8-b343-30c4efe54288",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e4b2f8b-e462-4f7e-8e1b-b2aca1d287eb",
+    "data": [
+      {
+        "text": "Kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "832dc5de-6368-4d1b-a183-1abf5c8badab",
+    "data": [
+      {
+        "text": "Kann ich noch ",
+        "userDefined": false
+      },
+      {
+        "text": "ins Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78bce94b-4d24-4035-baff-69911c9eb5c9",
+    "data": [
+      {
+        "text": "Welche Hygienemaßnahmen sind wichtig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fa49327-34d5-4abb-aa10-98a7c894b1ce",
+    "data": [
+      {
+        "text": "Welche Vorschriften muss ich beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4db7ec62-c06b-44f4-88cd-42337e167c87",
+    "data": [
+      {
+        "text": "Welche Gesetze muss ich beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a0b3d58-f459-4f1d-b8da-6011fae92271",
+    "data": [
+      {
+        "text": "Welche Regeln gelten für mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "932480a5-9823-420a-b7d1-4061098672cb",
+    "data": [
+      {
+        "text": "Welche Regeln gelten für uns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ddd69a5-c005-4903-845b-f7a9f6ce4529",
+    "data": [
+      {
+        "text": "Welche Öffnungszeiten gelten für ",
+        "userDefined": false
+      },
+      {
+        "text": "Restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "738471b3-f9a7-4b3b-b3b2-7bc36340c2ef",
+    "data": [
+      {
+        "text": "Welche Öffnungszeiten gelten für ",
+        "userDefined": false
+      },
+      {
+        "text": "Gastronomie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "092efa9e-902e-4bb1-bbe6-c7179bffca46",
+    "data": [
+      {
+        "text": "Welche Öffnungszeiten gelten für Imbissbuden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afe110b5-ddc4-4129-8e1e-86261fd659bc",
+    "data": [
+      {
+        "text": "Was muss ich als Restaurantbesitzer beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e4e6404-9cbe-43be-b95b-1605666dec08",
+    "data": [
+      {
+        "text": "Was muss ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "der Gastronomie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beachten wegen ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "676c2a59-f36c-4b56-b06b-74134527450e",
+    "data": [
+      {
+        "text": "Haben ",
+        "userDefined": false
+      },
+      {
+        "text": "die Restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geschlossen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11f61a3f-6fc2-4346-b175-e5e17ca95aec",
+    "data": [
+      {
+        "text": "Kann ich mir ",
+        "userDefined": false
+      },
+      {
+        "text": "eine Pizza",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bestellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a83ebf24-fdba-4cda-8321-99bdaa84f312",
+    "data": [
+      {
+        "text": "Kann ich mir ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vom Lieferdienst bestellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1e27256-3d46-4537-8d6d-fa4961531f8c",
+    "data": [
+      {
+        "text": "Haben ",
+        "userDefined": false
+      },
+      {
+        "text": "Restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch normal geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea3d3e0c-818a-4c58-82bc-61028934c65c",
+    "data": [
+      {
+        "text": "Haben ",
+        "userDefined": false
+      },
+      {
+        "text": "Kneipen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91a45f42-7536-4bd8-9f74-3b606d4fda63",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "eine Kneipe",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f43f4ba3-3709-46c1-a3e0-dcdc4a4615af",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "accd793f-74c1-4c01-af7e-5f8bc3aa8889",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " schließen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2dcab1b-eceb-411a-aaf9-64015a70fd49",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "als Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch ",
+        "userDefined": false
+      },
+      {
+        "text": "Lieferservice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " betreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b0f60ca-60e7-4d3e-9353-8400b41df867",
+    "data": [
+      {
+        "text": "Dürfen Kunden ",
+        "userDefined": false
+      },
+      {
+        "text": "Essen im Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mitnehmen oder abholen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b552143-417f-4d5b-a4be-4dc7b83f63fb",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "die Restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "776f40f9-d0b1-4dab-aa92-0910190f677a",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch öffnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8ba9d60-c282-45e8-b169-91a13ff90cfe",
+    "data": [
+      {
+        "text": "Welche Regelungen gelten aktuell für Restaurantöffnungszeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8ea3608-7317-41ba-86d6-f9911ede379e",
+    "data": [
+      {
+        "text": "Welche Vorschriften gelten aktuell für Gastronome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2b181ce3-9308-4b9a-8052-73d6ceb4058c",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " als ",
+        "userDefined": false
+      },
+      {
+        "text": "Lieferdienst",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " betreiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

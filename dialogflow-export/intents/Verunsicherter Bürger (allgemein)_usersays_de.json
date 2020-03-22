@@ -1,0 +1,426 @@
+[
+  {
+    "id": "af26202f-46ad-4424-a721-eebc0563e3ee",
+    "data": [
+      {
+        "text": "disko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c966f48-81b2-4ae6-80bb-317b2047f4e1",
+    "data": [
+      {
+        "text": "Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ca8f305d-a78a-4ec2-8535-77bb98c04121",
+    "data": [
+      {
+        "text": "Ich bin alleine.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c37ff408-57d5-46c0-8e30-8e9e08f8bf75",
+    "data": [
+      {
+        "text": "Ich fühle mich alleine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "048e6167-3cbc-40c6-9195-9e0e398c7706",
+    "data": [
+      {
+        "text": "Ich bin einsam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3aa4df1-baa7-44aa-be00-001caeeebadc",
+    "data": [
+      {
+        "text": "Was darf ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d28d37c6-f2bd-4951-a9aa-5820bbbd012f",
+    "data": [
+      {
+        "text": "Kann ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "die Eisdiele",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a04dc629-bbd7-4673-beea-4fd2c053210e",
+    "data": [
+      {
+        "text": "Kann ich noch ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7d203be-5734-47fb-ae4b-056fc285efd4",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "hoch",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist die Ansteckungsgefahr, wenn ich was ",
+        "userDefined": false
+      },
+      {
+        "text": "essen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc845e5a-8b1f-40d4-8976-4b76f230a8f9",
+    "data": [
+      {
+        "text": "Ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "einen Kaffee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " trinken gehen. Geht das noch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "626fd91a-0b0b-46c6-959d-e8edac63e40f",
+    "data": [
+      {
+        "text": "Darf ich noch ins Restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84a048e3-edb5-420c-892a-4f19d443b8ad",
+    "data": [
+      {
+        "text": "Darf ich noch ins Cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db1c5e5f-4b72-4d56-b4fd-38fc69a094b8",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist doof.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f735e9c-eb2e-460b-a635-bddeedefd3a4",
+    "data": [
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nervt.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d59f0ab-6de6-46c0-afb9-13e7311d7228",
+    "data": [
+      {
+        "text": "Ich brauche Toilettenpapier.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aff96f06-3266-4a10-b4ce-4c7b72b859fb",
+    "data": [
+      {
+        "text": "Darf ich noch Joggen oder Spazieren gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cd79551-93e9-45c3-93f5-3027fb7dc198",
+    "data": [
+      {
+        "text": "Was kann ich tun, damit ich mich nicht anstecke?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9a2b5f5-5834-4f6f-b5b0-68b241f4445c",
+    "data": [
+      {
+        "text": "Wie kann ich helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e76f93ba-e916-48ef-b2e0-bc44ec167b7d",
+    "data": [
+      {
+        "text": "Wird wirklich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausgangssperre verhängt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd2f5579-2cf1-4f6e-ac31-81ffc2e97247",
+    "data": [
+      {
+        "text": "Darf ich noch ",
+        "userDefined": false
+      },
+      {
+        "text": "raus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f586ac7a-4754-413f-9608-8fea5ddf2d0e",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "der Spielplatz",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f10f51a8-859b-4dfe-8899-e9de17b39493",
+    "data": [
+      {
+        "text": "Mir ist ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "langweilig",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " alleine.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027c4369-65cc-46b9-8aa6-8b39c8d65fd9",
+    "data": [
+      {
+        "text": "Ich habe Angst raus zu gehen, ist das noch sicher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58219e7f-2b0d-4130-923e-3383aa512080",
+    "data": [
+      {
+        "text": "Mein ",
+        "userDefined": false
+      },
+      {
+        "text": "Mehl",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " und Toilettenpapier sind alle und ich darf nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "raus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Wie kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einkaufen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

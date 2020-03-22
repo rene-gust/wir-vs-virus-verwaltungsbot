@@ -1,0 +1,35 @@
+[
+  {
+    "id": "404eb3db-5956-4a0b-9f1d-12190128bf3e",
+    "data": [
+      {
+        "text": "Hallo, schön dass Sie da sind und sich informieren möchten. Wie kann ich Ihnen helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1c978f2-7be3-42fc-aac6-d96fe47419da",
+    "data": [
+      {
+        "text": "Hallo, wie kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Ihnen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

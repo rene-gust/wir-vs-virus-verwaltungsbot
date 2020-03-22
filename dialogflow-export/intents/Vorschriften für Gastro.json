@@ -1,0 +1,44 @@
+{
+  "id": "4ec539d7-7a0a-4f0d-a67f-205a85f655e8",
+  "name": "Vorschriften für Gastro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f14dd02e-99c1-4e51-b550-1e55bb5d9fc3",
+          "required": false,
+          "dataType": "",
+          "name": "questionId",
+          "value": "gastro_betrieb",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Bitte beachten Sie, dass ein regulärer Restaurantbetrieb derzeit nicht mehr gestattet ist. Es ist nicht mehr möglich, Gäste vor Ort zu bewirten. Lediglich Abhol- und Lieferdienste können weiterhin durchgeführt werden. Achten Sie dabei bitte auf einen möglichst kontaktlosen Vorgang..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

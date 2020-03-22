@@ -1,0 +1,56 @@
+{
+  "id": "a90c818b-c908-437d-8d8b-387db4d4c519",
+  "name": "Verunsicherter Bürger (allgemein)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e0d14faf-e519-46fa-a2d0-f66b5f2b50ad",
+          "required": false,
+          "dataType": "",
+          "name": "questionId",
+          "value": "verunsicherter_buerger",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2f57e86e-b967-4675-a226-0c1c54d93117",
+          "required": false,
+          "dataType": "",
+          "name": "channel",
+          "value": "test-website-1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Mit Ihrer Sorge sind Sie nicht alleine! Wir verstehen, dass Sie in dieser außergewöhnlichen Situation verunsichert sind. Umso wichtiger ist es daher, dass wir uns gegenseitig helfen. Am besten tun wir das, indem wir alle zu Hause bleiben und nur für das Nötigste rausgehen. Ob eine Ausgangssperre in Ihrer Region besteht, erfahren Sie hier (Link zur Kommune). Sofern Sie sich draußen aufhalten müssen, um wichtige Dinge wie Ihren Einkauf zu erledigen, halten Sie sich bitte an diese Vorgaben (Link), um sich und andere zu schützen. \n\nWenn Sie nicht mehr rausgehen können, aber Hilfe benötigen, zum Beispiel beim Einkaufen können Sie in Ihrer Nachbarschaft nach Unterstützung fragen. Zum Beispiel bei nebenan.de/corona oder per Telefon unter 0800-8665544. Darüber können Sie auch Hilfe anbieten, zum Beispiel für Ihre älteren Nachbar*innen. \n\nDie aktuellen Einschränkungen im Alltag können auch für Familien zu besonderen Belastungssituationen führen. Hier finden Sie weitere Unterstützungsangebote, zu Themen wie finanzieller Unterstützung, Organisation des Alltags und direkte Ansprechpersonen in Notfällen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

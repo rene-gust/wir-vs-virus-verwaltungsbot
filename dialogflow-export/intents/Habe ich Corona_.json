@@ -1,0 +1,44 @@
+{
+  "id": "55a2b2fd-c92c-43f0-b990-9bd276c74f51",
+  "name": "Habe ich Corona?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "85e4fb33-a756-422d-9f2c-90a42816ddd3",
+          "required": false,
+          "dataType": "",
+          "name": "questionId",
+          "value": "corona_diagnose",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn Sie befürchten, am Coronavirus (COVID-19) erkrankt zu sein, empfehlen wir Ihnen, Ihre Situation mithilfe der CovApp näher zu beschreiben: Folgen Sie den Handlungsempfehlungen auf https://covapp.charite.de/. Die CovApp ist eine von der Charité Berlin in Zusammenarbeit mit Data4Life entwickelte Software, mit der Sie innerhalb weniger Minuten einen Fragenkatalog beantworten und daraus spezifische Handlungsempfehlungen erhalten. Dies soll Ihnen die Entscheidung zum weiteren Vorgehen erleichtern. Bitte beachten Sie, dass die Nutzung dieser App keine ärztliche Behandlung ersetzt. Wenn Sie sich aktuell schwer krank fühlen, suchen Sie bitte umgehend medizinische Hilfe auf. Bitte nehmen Sie zunächst per Telefon Kontakt zu Ihrem Hausarzt bzw. Ihrer Hausärztin auf oder melden Sie sich beim Ärztlichen Bereitschaftsdienst unter 116117."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
