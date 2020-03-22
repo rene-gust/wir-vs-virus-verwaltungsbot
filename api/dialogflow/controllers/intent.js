@@ -33,12 +33,12 @@ module.exports = {
       answer = await getAnswer(channel, questionId)
       answer = answer.attributes.answer_text
     } catch (e) {
-      answer = JSON.stringify(e)
+      strapi.log.error(`Error in dialogflow endpoint:`, e)
+      answer = "Sorry, we are experiencing technical problems while answering your question."
     }
 
     ctx.send({
-      fulfillmentText: `This should be the answer to question: ${questionId} in channel: ${channel}
-                        Answer loaded from db: ${answer}`,
+      fulfillmentText: answer,
     });
   },
 };
